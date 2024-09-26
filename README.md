@@ -1,7 +1,7 @@
 # NAME: Aaliya Fathima.M
 # REGISTER NO:212223230001
 # EX. NO.3
-# DATE:26.09.24
+# DATE:
 ## aligh = center> Implementation of MLP for a non-linearly separable data
 ## Aim:
 To implement a perceptron for classification using Python
